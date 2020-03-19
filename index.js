@@ -19,13 +19,22 @@ function johnLennonFacts(facts) {
   return factsArray;
 }
 
+<<<<<<< HEAD
 function iLoveTheBeatles(number) {
+=======
+function iLoveTheBeatles(number){
+>>>>>>> b71a023dd932bd897355a5412f14f54b3561bf2a
   const emptyArray = [];
  
   do {
     emptyArray.push('I love the Beatles!');
     number++;
   } while (number < 15);
+<<<<<<< HEAD
   
  return emptyArray;
 }
+=======
+ return emptyArray;
+}
+>>>>>>> b71a023dd932bd897355a5412f14f54b3561bf2a
